@@ -1,0 +1,31 @@
+_repo: The-Devil-s-ElixirVol.-II--of-2-_37005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
+    aliases:
+    - Hoffmann, Ernst Theodor Wilhelm
+    - Hoffmann, Ernst Theodor Amadeus
+    - Hoffmann, E.T.A.
+    birthdate: 1776
+    deathdate: 1822
+    gutenberg_agent_id: '2008'
+    url: http://www.gutenberg.org/2009/agents/2008
+    wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
+description: ''
+gutenberg_issued: '2011-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Gothic fiction (Literary genre)'
+title: The Devil's Elixir, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/37005
